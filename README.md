@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat) 
+
+ 
+This public repository is read-only and no longer maintained. For the latest sample code repositories, visit the [Samples](https://github.com/SAP-samples) organization.  
+
 # SAP Community Code Challenge - UI5
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:-->
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-community-code-challenge-ui5)](https://api.reuse.software/info/github.com/SAP-samples/sap-community-code-challenge-ui5)
